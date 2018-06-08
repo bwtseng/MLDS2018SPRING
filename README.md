@@ -6,11 +6,11 @@ Student : R06942098 曾柏偉
 ```
 
 
-##HW1 Why deep ? 
+## HW1 Why deep ? 
 
-##HW2 Image_caption and machine translation 
+## HW2 Image_caption and machine translation 
 
-##HW3 GAN / Conditional GAN / Cycle GAN (Bonus)
+## HW3 GAN / Conditional GAN / Cycle GAN (Bonus)
 
-##HW4 Reinforcement learning 
+## HW4 Reinforcement learning 
 
