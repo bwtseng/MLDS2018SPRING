@@ -51,8 +51,5 @@ Train the model by default setting <br/>
 
 `python main --test_dqn --Deuling or -- Double` <br/>
 
-### Another model 
 
-`Simple Relation net r_net.py , but the encoder of my relation net may change anthoer way to implement. `
-`Prototypical net , loss can not go down after each training iteration.`
 
