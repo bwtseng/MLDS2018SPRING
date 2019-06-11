@@ -1,4 +1,4 @@
-# hw2_1   Video caption generation
+# Hw2_1   Video caption generation
 
 ## Data Information
 - 1450 videos for training  
